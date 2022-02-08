@@ -1,0 +1,10 @@
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7 - Discover Process\obj\Debug\DiscoverProcess.csprojAssemblyReference.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7 - Discover Process\obj\Debug\MyHomework.Form1.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7 - Discover Process\obj\Debug\MyHomework.Properties.Resources.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7 - Discover Process\obj\Debug\DiscoverProcess.csproj.GenerateResource.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7 - Discover Process\obj\Debug\DiscoverProcess.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7 - Discover Process\bin\Debug\Discover-Process.exe.config
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7 - Discover Process\bin\Debug\Discover-Process.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7 - Discover Process\bin\Debug\Discover-Process.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7 - Discover Process\obj\Debug\Discover-Process.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7 - Discover Process\obj\Debug\Discover-Process.pdb

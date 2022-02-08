@@ -1,0 +1,10 @@
+C:\Users\Gahab\Desktop\HW_NEW\HW8_10A_CS\HW8_10A_CS\bin\Debug\FirstLast_Order.exe.config
+C:\Users\Gahab\Desktop\HW_NEW\HW8_10A_CS\HW8_10A_CS\bin\Debug\FirstLast_Order.exe
+C:\Users\Gahab\Desktop\HW_NEW\HW8_10A_CS\HW8_10A_CS\bin\Debug\FirstLast_Order.pdb
+C:\Users\Gahab\Desktop\HW_NEW\HW8_10A_CS\HW8_10A_CS\obj\Debug\HW8_10A_CS.csproj.AssemblyReference.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW8_10A_CS\HW8_10A_CS\obj\Debug\MyHomework.Form1.resources
+C:\Users\Gahab\Desktop\HW_NEW\HW8_10A_CS\HW8_10A_CS\obj\Debug\MyHomework.Properties.Resources.resources
+C:\Users\Gahab\Desktop\HW_NEW\HW8_10A_CS\HW8_10A_CS\obj\Debug\HW8_10A_CS.csproj.GenerateResource.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW8_10A_CS\HW8_10A_CS\obj\Debug\HW8_10A_CS.csproj.CoreCompileInputs.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW8_10A_CS\HW8_10A_CS\obj\Debug\FirstLast_Order.exe
+C:\Users\Gahab\Desktop\HW_NEW\HW8_10A_CS\HW8_10A_CS\obj\Debug\FirstLast_Order.pdb

@@ -1,0 +1,20 @@
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7a - First Last Order\obj\Debug\FirstLastOrder.csprojAssemblyReference.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7a - First Last Order\obj\Debug\MyHomework.Form1.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7a - First Last Order\obj\Debug\MyHomework.Properties.Resources.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7a - First Last Order\obj\Debug\FirstLastOrder.csproj.GenerateResource.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7a - First Last Order\obj\Debug\FirstLastOrder.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7a - First Last Order\bin\Debug\FirstLast_Order.exe.config
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7a - First Last Order\bin\Debug\FirstLast_Order.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7a - First Last Order\bin\Debug\FirstLast_Order.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7a - First Last Order\obj\Debug\FirstLast_Order.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7a - First Last Order\obj\Debug\FirstLast_Order.pdb
+E:\Statistics\Homeworks\7a - First Last Order\bin\Debug\FirstLast_Order.exe.config
+E:\Statistics\Homeworks\7a - First Last Order\bin\Debug\FirstLast_Order.exe
+E:\Statistics\Homeworks\7a - First Last Order\bin\Debug\FirstLast_Order.pdb
+E:\Statistics\Homeworks\7a - First Last Order\obj\Debug\FirstLastOrder.csprojAssemblyReference.cache
+E:\Statistics\Homeworks\7a - First Last Order\obj\Debug\MyHomework.Form1.resources
+E:\Statistics\Homeworks\7a - First Last Order\obj\Debug\MyHomework.Properties.Resources.resources
+E:\Statistics\Homeworks\7a - First Last Order\obj\Debug\FirstLastOrder.csproj.GenerateResource.cache
+E:\Statistics\Homeworks\7a - First Last Order\obj\Debug\FirstLastOrder.csproj.CoreCompileInputs.cache
+E:\Statistics\Homeworks\7a - First Last Order\obj\Debug\FirstLast_Order.exe
+E:\Statistics\Homeworks\7a - First Last Order\obj\Debug\FirstLast_Order.pdb
